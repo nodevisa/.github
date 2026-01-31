@@ -1,6 +1,4 @@
-# Nodevisa
-
-*We handle instrument communication, so you can focus on using them.*
+**_We handle instrument communication, so you can focus on using them_**
 
 ## What is Nodevisa?
 
